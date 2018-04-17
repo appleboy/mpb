@@ -7,7 +7,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/vbauerster/mpb/cwriter"
+	"github.com/appleboy/mpb/cwriter"
 )
 
 func (p *Progress) serve(s *pState) {

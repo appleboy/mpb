@@ -7,7 +7,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/vbauerster/mpb/cwriter"
+	"github.com/appleboy/mpb/cwriter"
 )
 
 // ProgressOption is a function option which changes the default behavior of
